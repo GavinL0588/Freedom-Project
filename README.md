@@ -15,7 +15,7 @@ As technology changes and becoming more advance, we should make people learn mor
 
 As a creator of this site I believe that technology can help industries grow in a positive way, I hope for the best of the future in educatution and jobs and I hope everyone ahs a 2nd plan incase something goes wrong. 
 
-
+________________________________________________________________________________________
 Entry 1:
 
 Getting a good layout for my project for robotics using css and html to create a new layout I first used Accordian to put all my information into their own tab
